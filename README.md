@@ -7,6 +7,10 @@ Kumon Connect currently **requires** a compatible tablet and stylus, which means
 
 Too confusing? You have access to Google. I believe in you. 
 
+## Known Bugs
+- Delay while using touch input
+- Sometimes Cancel and Finish Studying button doesn’t work
+
 ## Disclaimer
 No Kumon files are modified, and no unauthorized source code or backend changes are made. Please review your region’s Kumon Connect Terms of Use and any rules provided by your Kumon Center before using the script. I am not responsible for any consequences resulting from the use of this script, including but not limited to pissing off your local Kumon center’s IT guy. This is for educational purposes only, and free to use and modify and sell and whatever by anyone underneath the MIT License
 
