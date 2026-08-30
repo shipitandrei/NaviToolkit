@@ -41,7 +41,7 @@
         touchAsPen.__touchToPenPatch = true;
         lib.getEventPointerType = touchAsPen;
 
-        console.log("[InkTool] Touch → Pen patch active");
+        console.log("[InkTool] touch to pen patch active");
         return true;
     }
 
