@@ -104,7 +104,7 @@
         touchAsPen.__touchToPenPatch = true;
         lib.getEventPointerType = touchAsPen;
 
-        console.log("[InkTool] canvas-only touch to pen patch active");
+        console.log("[InkTool] touch to pen patch active");
 
         return true;
     }
@@ -154,7 +154,7 @@
         });
 
         const title = document.createElement("span");
-        title.textContent = "Touch Patcher";
+        title.textContent = "Touch Patcher v2.0";
 
         Object.assign(title.style, {
             fontWeight: "600",
