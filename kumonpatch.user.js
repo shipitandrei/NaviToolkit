@@ -5,7 +5,7 @@
 // @description  Makes touch input work as stylus input on the Kumon Connect app
 // @run-at       document-start
 // @grant        none
-// @match        *://*/*
+// @match        https://kumonapp.digital.kumon.com/*
 // ==/UserScript==
 
 (function () {
