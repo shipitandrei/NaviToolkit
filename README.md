@@ -9,7 +9,7 @@ NaviToolkit may break with updates. Please treat the touch patching feature as a
 
 ## Instructions for Use
 1. Install a userscript manager
-2. [Install the script](https://raw.githubusercontent.com/shipitandrei/KumonConnectTouchPatcher/main/kumonpatch.user.js)
+2. [Install the script](https://raw.githubusercontent.com/shipitandrei/KumonConnectTouchPatcher/main/navitoolkit.user.js)
 
 Too confusing? You have access to Google. I believe in you. 
 
